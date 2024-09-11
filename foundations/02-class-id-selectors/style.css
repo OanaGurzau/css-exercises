@@ -1,0 +1,18 @@
+.pink-pharagraph{
+    background-color: rgb(247, 162, 162);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second-element{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#forth-element{
+    background-color:hsl(120, 59%, 65%);
+    font-weight: bold;
+}
